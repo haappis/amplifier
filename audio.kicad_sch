@@ -2624,10 +2624,28 @@
 		(uuid "0a6f280a-b84e-43f5-9237-fb3db25f771d")
 	)
 	(junction
+		(at 199.39 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "12112208-4702-4920-8bbb-3cb5c1ea97ae")
+	)
+	(junction
 		(at 214.63 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1d95dced-a2e4-4cf3-bc9f-635135a342d9")
+	)
+	(junction
+		(at 139.7 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1f76010a-b5d8-4101-afa9-63c6aecfc23a")
+	)
+	(junction
+		(at 195.58 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1fb3f219-66d3-468e-bc57-7d0777252ec4")
 	)
 	(junction
 		(at 149.86 97.79)
@@ -2642,10 +2660,64 @@
 		(uuid "593a4d6f-816b-404d-8db7-7018389ea627")
 	)
 	(junction
+		(at 240.03 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65192e4a-7736-46c3-83c6-d07e81dc8a68")
+	)
+	(junction
+		(at 191.77 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6f96c8c9-7fc6-40b8-9f32-3b1dd32a0d54")
+	)
+	(junction
 		(at 143.51 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "72f10f95-1ec1-45fe-98e1-8a66523ba1ef")
+	)
+	(junction
+		(at 240.03 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "73be3314-ff8d-4606-ae95-6f399779cc86")
+	)
+	(junction
+		(at 247.65 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9b6aea84-49b7-450d-9510-9b15bb5f40b9")
+	)
+	(junction
+		(at 227.33 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "be2b4dba-f5f2-49e5-8596-fe00b45b488a")
+	)
+	(junction
+		(at 247.65 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cdf8b8c3-4602-4f5c-acd4-a1d888620ddd")
+	)
+	(junction
+		(at 139.7 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d8dff017-02a3-4b87-a9dd-89abfd037969")
+	)
+	(junction
+		(at 227.33 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e398ba97-4890-492d-bd8a-91f5b0112f38")
+	)
+	(junction
+		(at 195.58 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f07f146d-0b97-4ed2-8bdc-9b97d3544b8a")
 	)
 	(wire
 		(pts
@@ -2679,6 +2751,36 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 138.43) (xy 200.66 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06dd274c-5791-4adc-a6a6-4e5492d3707e")
+	)
+	(wire
+		(pts
+			(xy 208.28 133.35) (xy 227.33 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a184b86-f257-43a7-ae69-ffce8d2f238a")
+	)
+	(wire
+		(pts
+			(xy 139.7 110.49) (xy 139.7 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13dcb808-00bd-490a-91d2-ec4f0031288b")
+	)
+	(wire
+		(pts
 			(xy 143.51 123.19) (xy 149.86 123.19)
 		)
 		(stroke
@@ -2686,6 +2788,16 @@
 			(type default)
 		)
 		(uuid "190e7c3d-0463-4428-b7ad-c0845e6cdf06")
+	)
+	(wire
+		(pts
+			(xy 240.03 80.01) (xy 240.03 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "197110bd-044b-4d78-80e0-5946d23bf775")
 	)
 	(wire
 		(pts
@@ -2699,6 +2811,16 @@
 	)
 	(wire
 		(pts
+			(xy 195.58 147.32) (xy 199.39 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "292a396f-316a-40de-8edb-df52507bcb54")
+	)
+	(wire
+		(pts
 			(xy 207.01 99.06) (xy 207.01 104.14)
 		)
 		(stroke
@@ -2706,6 +2828,16 @@
 			(type default)
 		)
 		(uuid "2dd78730-cdc4-447c-8b21-d937388073e6")
+	)
+	(wire
+		(pts
+			(xy 247.65 130.81) (xy 247.65 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3207ca71-34bd-4d03-8ed6-2662a5df2c67")
 	)
 	(wire
 		(pts
@@ -2719,13 +2851,53 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 143.51) (xy 199.39 143.51)
+			(xy 139.7 105.41) (xy 139.7 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37f04218-4e4f-4c4b-9374-fc18dfaf304c")
+	)
+	(wire
+		(pts
+			(xy 190.5 133.35) (xy 195.58 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3902c256-b0ed-4f6c-9696-d553f0f989e5")
+	)
+	(wire
+		(pts
+			(xy 149.86 87.63) (xy 149.86 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ecbff68-9580-4a26-8c21-246aba27dc29")
+	)
+	(wire
+		(pts
+			(xy 124.46 154.94) (xy 191.77 154.94)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "4272a833-88e5-4448-8754-f655d7c9a188")
+	)
+	(wire
+		(pts
+			(xy 194.31 135.89) (xy 194.31 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46c748e4-5397-43c3-a359-accb2b298694")
 	)
 	(wire
 		(pts
@@ -2739,6 +2911,16 @@
 	)
 	(wire
 		(pts
+			(xy 138.43 123.19) (xy 143.51 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "569be48c-6880-4830-9995-25f39c1952e2")
+	)
+	(wire
+		(pts
 			(xy 214.63 130.81) (xy 190.5 130.81)
 		)
 		(stroke
@@ -2746,6 +2928,16 @@
 			(type default)
 		)
 		(uuid "5a3ca55f-1101-47ae-a79c-52b3f5425c4b")
+	)
+	(wire
+		(pts
+			(xy 199.39 133.35) (xy 199.39 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c4626bb-94d3-420b-90cd-5d589a7b2c71")
 	)
 	(wire
 		(pts
@@ -2769,6 +2961,86 @@
 	)
 	(wire
 		(pts
+			(xy 190.5 135.89) (xy 194.31 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71b9b26f-6ef9-49cd-9cf1-f2a75b8f7db6")
+	)
+	(wire
+		(pts
+			(xy 149.86 130.81) (xy 138.43 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74b6b6fa-58a2-434e-8a2c-4c30c9c100da")
+	)
+	(wire
+		(pts
+			(xy 227.33 133.35) (xy 227.33 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "783b4953-fedb-4de7-bc79-f0e64a4c8cb9")
+	)
+	(wire
+		(pts
+			(xy 240.03 130.81) (xy 240.03 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ae128a5-7f7d-4165-8fc0-8ffee0411574")
+	)
+	(wire
+		(pts
+			(xy 199.39 154.94) (xy 191.77 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85f74911-8357-4ac3-ac3b-c5d75936f7aa")
+	)
+	(wire
+		(pts
+			(xy 149.86 105.41) (xy 139.7 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "880e6094-0021-45f8-baf3-a26133ac7786")
+	)
+	(wire
+		(pts
+			(xy 190.5 87.63) (xy 227.33 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88621ca5-55c1-4a38-88aa-c2cb51205c05")
+	)
+	(wire
+		(pts
+			(xy 191.77 147.32) (xy 195.58 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fecea24-07f1-4221-a855-ef26f76f1263")
+	)
+	(wire
+		(pts
 			(xy 214.63 104.14) (xy 214.63 130.81)
 		)
 		(stroke
@@ -2779,6 +3051,96 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 107.95) (xy 139.7 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b13805c-a04c-4ac1-a0cb-9ad96d8a0d35")
+	)
+	(wire
+		(pts
+			(xy 247.65 114.3) (xy 247.65 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d12986b-927d-48f8-95fc-72268c731ca1")
+	)
+	(wire
+		(pts
+			(xy 190.5 115.57) (xy 195.58 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1d5baa5-f0c5-4ac2-9003-26d43588f904")
+	)
+	(wire
+		(pts
+			(xy 247.65 123.19) (xy 247.65 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5f9fc1d-6161-41ff-9d93-a1dd06f9e164")
+	)
+	(wire
+		(pts
+			(xy 190.5 107.95) (xy 195.58 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae110f03-b66d-4368-83ae-28d483f6a4cd")
+	)
+	(wire
+		(pts
+			(xy 138.43 130.81) (xy 138.43 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b21f047a-5c12-4d12-9b84-7555f67b6c90")
+	)
+	(wire
+		(pts
+			(xy 149.86 80.01) (xy 240.03 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4990ad4-18fc-4e95-b6cb-aaf861a6960b")
+	)
+	(wire
+		(pts
+			(xy 199.39 133.35) (xy 200.66 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd43b7b2-2176-4253-bc19-9562ea185306")
+	)
+	(wire
+		(pts
+			(xy 227.33 138.43) (xy 227.33 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0a9f7a8-6186-40c9-a52b-3b2218b74223")
+	)
+	(wire
+		(pts
 			(xy 207.01 99.06) (xy 207.01 76.2)
 		)
 		(stroke
@@ -2786,6 +3148,16 @@
 			(type default)
 		)
 		(uuid "c18dd144-e8f3-4e56-87d7-81c951989d3e")
+	)
+	(wire
+		(pts
+			(xy 194.31 143.51) (xy 240.03 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c693f4e9-1703-4db4-95ca-767203a1ccbe")
 	)
 	(wire
 		(pts
@@ -2809,6 +3181,16 @@
 	)
 	(wire
 		(pts
+			(xy 227.33 87.63) (xy 227.33 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0368263-57a4-4c59-9693-4ba6aa2b2e85")
+	)
+	(wire
+		(pts
 			(xy 143.51 118.11) (xy 149.86 118.11)
 		)
 		(stroke
@@ -2819,13 +3201,43 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 101.6) (xy 124.46 143.51)
+			(xy 190.5 123.19) (xy 232.41 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4ff6f75-debe-46dd-b101-9158d47e3d87")
+	)
+	(wire
+		(pts
+			(xy 139.7 113.03) (xy 149.86 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7903196-55d0-47f1-9f63-de714202c764")
+	)
+	(wire
+		(pts
+			(xy 124.46 101.6) (xy 124.46 154.94)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "dd227c31-59b2-47fa-acb5-e864f3a1b6a0")
+	)
+	(wire
+		(pts
+			(xy 195.58 133.35) (xy 195.58 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de055a31-72d6-4e68-82e1-331cc81c6360")
 	)
 	(wire
 		(pts
@@ -2836,6 +3248,110 @@
 			(type default)
 		)
 		(uuid "e75a428d-59db-4dd0-b121-a7e3c14ef031")
+	)
+	(wire
+		(pts
+			(xy 208.28 138.43) (xy 227.33 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee336a12-1002-4d58-bbc2-4845fe83ccfa")
+	)
+	(wire
+		(pts
+			(xy 139.7 107.95) (xy 149.86 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f366eb86-27ee-4202-9250-dbc956299ba2")
+	)
+	(wire
+		(pts
+			(xy 240.03 114.3) (xy 247.65 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5bf24c5-fe18-4362-9f47-dc5634628f98")
+	)
+	(wire
+		(pts
+			(xy 139.7 110.49) (xy 149.86 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7b940ad-af9d-4860-a3a6-7c22b1b122c0")
+	)
+	(wire
+		(pts
+			(xy 195.58 133.35) (xy 199.39 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8042ce3-eb20-45b7-a7c0-570367a28c2a")
+	)
+	(wire
+		(pts
+			(xy 240.03 123.19) (xy 240.03 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fef32359-a362-4f96-ad8f-dfb9d83bc1b2")
+	)
+	(global_label "PCM Audio Source"
+		(shape input)
+		(at 139.7 109.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "017a443d-ff67-41ab-86d8-02f89fb3bc04")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.1769 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "mute circuit"
+		(shape input)
+		(at 149.86 135.89 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1359b1fe-080b-4d53-baa9-a6c8ea38d43b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 135.2029 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "MCLK"
 		(shape input)
@@ -2916,6 +3432,50 @@
 		(uuid "505bd8d0-dd71-407c-b3a3-e2d106f3c452")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 88.9823 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3.3V"
+		(shape input)
+		(at 199.39 154.94 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e4a405c4-a7f6-4fdc-a2a8-88a043ee179f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 206.4876 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3.3VA"
+		(shape input)
+		(at 247.65 133.35 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ea1ffc62-f787-4ec8-b697-df7491df07fc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 255.8362 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3183,6 +3743,142 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 243.84 123.19 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "28ab6f5c-c066-4a8f-9df0-abb0c45be0a7")
+		(property "Reference" "C9"
+			(at 243.84 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "C"
+			(at 243.84 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 247.65 122.2248 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 243.84 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 243.84 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ae88c84b-2da5-44a6-a486-27c33512e976")
+		)
+		(pin "1"
+			(uuid "09000d49-052d-4aec-bb50-9714f622b85b")
+		)
+		(instances
+			(project ""
+				(path "/605c1717-99e8-4d25-8534-4e9b74e28932"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized_US")
+		(at 204.47 138.43 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3afc46b0-1074-4fd5-8a5b-6731fe59cc95")
+		(property "Reference" "C5"
+			(at 205.105 130.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "C_Polarized_US"
+			(at 205.105 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 204.47 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 204.47 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor, US symbol"
+			(at 204.47 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9d34faf5-54e5-490e-aabe-cc4cef7bbc21")
+		)
+		(pin "1"
+			(uuid "3b532bbb-bfb5-4f12-b292-c201795b12e6")
+		)
+		(instances
+			(project ""
+				(path "/605c1717-99e8-4d25-8534-4e9b74e28932"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "2026-10-26_11-10-58:USB4105-GF-A")
 		(at 24.13 39.37 0)
 		(unit 1)
@@ -3277,6 +3973,76 @@
 			(project ""
 				(path "/605c1717-99e8-4d25-8534-4e9b74e28932"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 191.77 151.13 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5d9f762d-8c26-489d-a706-18b8ccd52902")
+		(property "Reference" "C3"
+			(at 195.58 149.8599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "C"
+			(at 195.58 152.3999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 192.7352 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 191.77 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 191.77 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1dfd47af-dc02-4b51-a401-365a28cc8345")
+		)
+		(pin "1"
+			(uuid "fa58d51e-0683-4cc4-bf13-5e303f68efa4")
+		)
+		(instances
+			(project ""
+				(path "/605c1717-99e8-4d25-8534-4e9b74e28932"
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -3404,6 +4170,280 @@
 			(project ""
 				(path "/605c1717-99e8-4d25-8534-4e9b74e28932"
 					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 227.33 147.32 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "99631539-b226-4901-8629-92beccc4bbf7")
+		(property "Reference" "#PWR02"
+			(at 227.33 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 227.33 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 227.33 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 227.33 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "675c0741-0290-4749-bd8e-d54112fc4d10")
+		)
+		(instances
+			(project ""
+				(path "/605c1717-99e8-4d25-8534-4e9b74e28932"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 195.58 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9b6eb769-b595-4c61-8ad2-74ed0b6bacfd")
+		(property "Reference" "C8"
+			(at 199.39 110.4899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.2u"
+			(at 199.39 113.0299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 196.5452 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 195.58 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 195.58 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d309d0ae-1b11-4796-89b0-487172ba501d")
+		)
+		(pin "2"
+			(uuid "a55d6be2-2799-47a5-b6c4-7ae6710447f4")
+		)
+		(instances
+			(project ""
+				(path "/605c1717-99e8-4d25-8534-4e9b74e28932"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized_US")
+		(at 199.39 151.13 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d4d9894a-c742-4bba-ad11-a2f5b083e656")
+		(property "Reference" "C6"
+			(at 203.2 149.2249 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "C_Polarized_US"
+			(at 203.2 151.7649 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 199.39 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 199.39 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor, US symbol"
+			(at 199.39 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7329d759-1846-4d16-9144-285299b84086")
+		)
+		(pin "1"
+			(uuid "68b78420-e1ec-4bc5-8794-0f67daf6901a")
+		)
+		(instances
+			(project ""
+				(path "/605c1717-99e8-4d25-8534-4e9b74e28932"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 236.22 123.19 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dbaf3460-b94a-454b-8c75-01d59c21d4d6")
+		(property "Reference" "C7"
+			(at 236.22 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "C"
+			(at 236.22 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 240.03 122.2248 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 236.22 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 236.22 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "08cbf123-955d-4124-8a0a-5beb3a4260c8")
+		)
+		(pin "2"
+			(uuid "769d9809-9101-4607-9f2f-1ee24e6ffbc7")
+		)
+		(instances
+			(project ""
+				(path "/605c1717-99e8-4d25-8534-4e9b74e28932"
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -3737,6 +4777,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 204.47 133.35 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f3b36996-c9ab-4228-894e-b22e7eae9bc8")
+		(property "Reference" "C4"
+			(at 204.47 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "C"
+			(at 204.47 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 208.28 132.3848 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 204.47 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 204.47 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bb03a447-2358-47e3-981c-22f5d2706315")
+		)
+		(pin "2"
+			(uuid "56af63b4-2ca1-469d-a20a-c6c47ad251e0")
+		)
+		(instances
+			(project ""
+				(path "/605c1717-99e8-4d25-8534-4e9b74e28932"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Polarized_US")
 		(at 210.82 104.14 90)
 		(unit 1)
@@ -3798,6 +4906,74 @@
 			(project ""
 				(path "/605c1717-99e8-4d25-8534-4e9b74e28932"
 					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized_US")
+		(at 243.84 130.81 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fbb56e93-ebf1-428e-bc68-ab512c2a77c4")
+		(property "Reference" "C10"
+			(at 244.475 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "C_Polarized_US"
+			(at 244.475 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 243.84 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 243.84 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor, US symbol"
+			(at 243.84 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d185cfb6-56fc-44bb-98a2-601b21980775")
+		)
+		(pin "1"
+			(uuid "e383400d-a990-4817-88a0-38d89616aa14")
+		)
+		(instances
+			(project ""
+				(path "/605c1717-99e8-4d25-8534-4e9b74e28932"
+					(reference "C10")
 					(unit 1)
 				)
 			)
