@@ -41,7 +41,7 @@
         "pads": {
           "drill": 0.8,
           "height": 1.27,
-          "width": 1.27
+          "width": 2.54
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -665,7 +665,7 @@
         "uuid": "605c1717-99e8-4d25-8534-4e9b74e28932"
       }
     ],
-    "used_designators": "#GND1,#PWR1-10,C1-22,R1-4,SCL_PULLUP1,SDA_PULLUP1,U1-3",
+    "used_designators": "#PWR7-10,C13-14,C19-22",
     "variants": []
   },
   "sheets": [
